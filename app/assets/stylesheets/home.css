@@ -1,0 +1,55 @@
+
+#gif{
+
+  background: url(http://38.media.tumblr.com/17a8d0ac0a1ca96c3f4cdc0a118a26a5/tumblr_n4c8p3DROX1trxz06o4_500.gif) center no-repeat;
+  /*background-size: 100% 100%;*/ 
+
+}
+
+#title{
+  text-align: center;
+  font-size: 80px;
+  margin-top: 18%;
+
+}
+
+.picture{
+  width:35%;
+  height:35%;
+  margin: 0 auto;
+}
+
+#videotitle{
+  text-align: center;
+  font-size: 40px;
+  margin-top: 6%;
+
+}
+
+#menuli{
+   margin-top: 8%;
+}
+
+
+nav ul {
+ padding-left: 0px;
+ text-align: center;
+ text-decoration: none;
+
+}
+
+nav ul li {
+ list-style-type: none;
+ display: inline-block;
+ width: 10%;
+/* margin-top: %;*/
+}
+
+nav ul li a {
+  text-decoration: none;  
+  font-size: 20px;
+  font-family: helvetica;
+  text-transform: uppercase;
+  color: black;
+  /*text-decoration: overline;*/
+}
